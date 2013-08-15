@@ -11,7 +11,7 @@
 
 `cd` to your rails app. Install pave with the following command:
 
-     curl https://raw.github.com/mm53bar/pave/master/install.sh | sh
+     curl https://raw.github.com/cbrulak/pave/master/bin/pave | sh
 
 Now you'll have `bin/pave` in your app folder.
 
